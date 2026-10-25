@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "de-schaal-van-m"
+  },
+  "targets": {
+    "de-schaal-van-m": {
+      "hosting": {
+        "logo-intro-creator": [
+          "logo-intro-creator"
+        ]
+      }
+    }
+  }
+}
+

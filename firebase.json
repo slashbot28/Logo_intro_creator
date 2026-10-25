@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "target": "logo-intro-creator",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "**/.*",
+      "**/node_modules/**",
+      "*.log"
+    ]
+  }
+}
+
